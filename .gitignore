@@ -1,0 +1,10 @@
+# Ignore the virtual environment folder
+myenv/
+
+# Ignore compiled Python files (automatically generated trash)
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints (autosaves)
+.ipynb_checkpoints/
+
